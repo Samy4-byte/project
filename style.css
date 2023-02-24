@@ -24,7 +24,7 @@ body {
 .pic {
     width: 120px;
     height: 120px;
-    background-color: #1b38df;
+    background-color: #df1b3c;
     margin-bottom: 20px;
     margin-top: 0;
 }
@@ -32,12 +32,14 @@ body {
 p {
     width: 400px;
     margin-bottom: 20px;
+    color: #df1b3c;;
+    margin-top: 0;
 }
 
 button {
     width: 150px;
     height: 50px;
-    background-color: green;
+    background-color:  #df1b3c;
     color: #fff;
     border: none;
     font-size: 20px;
