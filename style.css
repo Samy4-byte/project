@@ -14,9 +14,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
+    align-items: start;
+    text-align: left;
     border-radius: 10px;
+    padding-left: 50px;
 
 
 }
@@ -24,20 +25,23 @@ body {
 .pic {
     width: 120px;
     height: 120px;
-    background-color: #1b38df;
+    background-color: #1bdf2b;
     margin-bottom: 20px;
-    margin-top: 0;
+    
 }
 
 p {
     width: 400px;
     margin-bottom: 20px;
+    margin-top: 0;
+    
+
 }
 
 button {
     width: 150px;
     height: 50px;
-    background-color: green;
+    background-color: rgb(184, 31, 214);
     color: #fff;
     border: none;
     font-size: 20px;
